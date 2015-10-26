@@ -1,0 +1,14 @@
+{
+	"name":"Viper Core",
+	"dependencies": {
+		"core.viper.compiler":"r0.1.0",
+		"core.viper.uploader":"r0.1.0",
+		"core.viper.ide":"r0.1.0",
+		"core.viper.vm":"r0.3.0",
+		"boards.viper.particle_photon","r0.1.0",
+		"boards.viper.particle_core","r0.1.0",
+		"boards.viper.st_nucleo401","r0.1.0",
+		"boards.viper.arduino_due","r0.1.0",
+		"boards.viper.udoo","r0.1.0"
+	}
+}
