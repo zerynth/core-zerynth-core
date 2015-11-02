@@ -1,6 +1,7 @@
 {
 	"name":"Viper Core",
 	"dependencies": {
+		"core.viper.toolbelt":"r0.3.0",
 		"core.viper.compiler":"r0.3.0",
 		"core.viper.uplinker":"r0.3.0",
 		"core.viper.ide":"r0.3.0",
@@ -17,6 +18,8 @@
 		"vm.viper.particle_core":"r0.3.0",
 		"vm.viper.st_nucleof401re":"r0.3.0",
 		"vm.viper.arduino_due":"r0.3.0",
-		"vm.viper.udoo":"r0.3.0"
+		"vm.viper.udoo":"r0.3.0",
+		"sys.viper.git":"r0.3.0",
+		"sys.viper.runtime":"r0.3.0"
 	}
 }
