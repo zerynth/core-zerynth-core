@@ -9,16 +9,6 @@
 		"core.viper.examples":"r0.3.0",
 		"core.viper.vpm":"r0.3.0",
 		"core.viper.stdlib":"r0.3.0",
-		"board.viper.particle_photon":"r0.3.0",
-		"board.viper.particle_core":"r0.3.0",
-		"board.viper.st_nucleof401re":"r0.3.0",
-		"board.viper.arduino_due":"r0.3.0",
-		"board.viper.udoo":"r0.3.0",
-		"vm.viper.particle_photon":"r0.3.0",
-		"vm.viper.particle_core":"r0.3.0",
-		"vm.viper.st_nucleof401re":"r0.3.0",
-		"vm.viper.arduino_due":"r0.3.0",
-		"vm.viper.udoo":"r0.3.0",
 		"sys.viper.git":"r0.3.0",
 		"sys.viper.runtime":"r0.3.0"
 	}
