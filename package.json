@@ -9,6 +9,7 @@
 		"core.viper.examples":"r0.3.0",
 		"core.viper.vpm":"r0.3.0",
 		"core.viper.stdlib":"r0.3.0",
+		"core.viper.docs":"r0.3.0",
 		"sys.viper.git":"r0.3.0",
 		"sys.viper.runtime":"r0.3.0"
 	}
