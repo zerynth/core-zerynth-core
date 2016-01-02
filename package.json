@@ -1,15 +1,15 @@
 {
 	"name":"Viper Core",
 	"dependencies": {
-		"core.viper.toolbelt":"r0.3.0",
-		"core.viper.compiler":"r0.3.0",
-		"core.viper.uplinker":"r0.3.0",
-		"core.viper.ide":"r0.3.0",
-		"core.viper.vm":"r0.3.0",
-		"core.viper.examples":"r0.3.0",
-		"core.viper.vpm":"r0.3.0",
-		"core.viper.stdlib":"r0.3.0",
-		"core.viper.docs":"r0.3.0",
+		"core.viper.toolbelt":"t0.3.2",
+		"core.viper.compiler":"t0.3.2",
+		"core.viper.uplinker":"t0.3.2",
+		"core.viper.ide":"t0.3.2",
+		"core.viper.vm":"t0.3.2",
+		"core.viper.examples":"t0.3.2",
+		"core.viper.vpm":"t0.3.2",
+		"core.viper.stdlib":"t0.3.2",
+		"core.viper.docs":"t0.3.2",
 		"sys.viper.git":"r0.3.0",
 		"sys.viper.runtime":"r0.3.0"
 	}
