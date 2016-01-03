@@ -11,6 +11,7 @@
 		"core.viper.stdlib":"t0.3.2",
 		"core.viper.docs":"t0.3.2",
 		"sys.viper.git":"r0.3.0",
-		"sys.viper.runtime":"r0.3.0"
+		"sys.viper.runtime":"r0.3.0",
+		"core.viper.boards_standard":"t0.3.2"
 	}
 }
